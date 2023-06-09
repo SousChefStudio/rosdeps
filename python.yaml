@@ -1,0 +1,20 @@
+zeroconf-0.47.4-pip:
+  ubuntu:
+    pip:
+      packages: [zeroconf==0.47.4]
+  osx:
+    pip:
+      packages: [zeroconf==0.47.4]
+  windows:
+    pip:
+      packages: [zeroconf==0.47.4]
+pynacl-1.5.0-pip:
+  ubuntu:
+    pip:
+      packages: [pynacl==1.5.0]
+  osx:
+    pip:
+      packages: [pynacl==1.5.0]
+  windows:
+    pip:
+      packages: [pynacl==1.5.0]
